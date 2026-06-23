@@ -39,7 +39,8 @@ Excessive workload and long working hours significantly increase the risk of emp
 * Promote work-life balance initiatives.
 
 ### Chart
-![alt text](https://github.com/ChirantanSarkar/employee_attrition_analysis_python/blob/main/Charts/Attrition_vs_overtime.png)
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/3d5424c1-9e2d-4a6e-ab01-712ce06f8bf3" />
+
 ___
 
 ## 2. Younger Employees Leave More Frequently

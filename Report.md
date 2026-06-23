@@ -38,6 +38,8 @@ Excessive workload and long working hours significantly increase the risk of emp
 * Improve workforce planning.
 * Promote work-life balance initiatives.
 
+### Chart
+![alt text](image.png)
 ___
 
 ## 2. Younger Employees Leave More Frequently
@@ -59,6 +61,8 @@ Early-career professionals are more likely to explore external opportunities.
 * Introduce mentorship programs.
 * Increase internal mobility opportunities.
 
+### Chart
+![alt text](image-1.png)
 ___
 
 ## 3. Lower Compensation is Associated with Higher Attrition
@@ -80,6 +84,8 @@ Compensation plays a critical role in employee retention.
 * Benchmark compensation against market standards.
 * Introduce performance-based rewards.
 
+### Chart
+![alt text](image-2.png)
 ___
 
 ## 4. Sales Department Experiences Highest Attrition
@@ -99,6 +105,8 @@ Customer-facing roles may experience greater pressure and turnover.
 * Investigate workload and incentive structures.
 * Improve employee engagement within sales teams.
 
+### Chart
+![alt text](image-3.png)
 ___
 
 ## 5. Sales Representatives Have the Highest Turnover
@@ -121,6 +129,8 @@ Sales Representatives represent the most vulnerable employee segment.
 * Create clearer career progression pathways.
 * Review compensation and incentive models.
 
+### Chart
+![alt text](image-4.png)
 ___
 
 ## 6. Job Satisfaction Directly Influences Retention
@@ -142,6 +152,8 @@ Higher job satisfaction significantly reduces employee turnover.
 * Address workplace concerns proactively.
 * Strengthen employee recognition programs.
 
+### Chart
+![alt text](image-5.png)
 ___
 
 ## 7. Poor Work-Life Balance Increases Attrition
@@ -163,6 +175,8 @@ Employees with poor work-life balance are twice as likely to leave.
 * Reduce excessive workloads.
 * Support employee wellness initiatives.
 
+### Chart
+![alt text](image-6.png)
 ___
 
 ## 8. Gender-Based Attrition Difference is Minimal
@@ -176,6 +190,8 @@ ___
 
 Gender is not a major factor influencing attrition compared to overtime, compensation, and satisfaction.
 
+### Chart
+![alt text](image-7.png)
 ___
 
 # Conclusion

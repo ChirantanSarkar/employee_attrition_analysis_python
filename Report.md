@@ -39,7 +39,7 @@ Excessive workload and long working hours significantly increase the risk of emp
 * Promote work-life balance initiatives.
 
 ### Chart
-![alt text](Charts\Attrition_vs_overtime.png)
+![alt text](https://github.com/ChirantanSarkar/employee_attrition_analysis_python/blob/main/Charts/Attrition_vs_overtime.png)
 ___
 
 ## 2. Younger Employees Leave More Frequently
@@ -62,7 +62,7 @@ Early-career professionals are more likely to explore external opportunities.
 * Increase internal mobility opportunities.
 
 ### Chart
-![alt text](Charts\Tenure-wise_attrition.png)
+![alt text](https://github.com/ChirantanSarkar/employee_attrition_analysis_python/blob/main/Charts/Tenure-wise_attrition.png)
 ___
 
 ## 3. Lower Compensation is Associated with Higher Attrition
@@ -85,7 +85,7 @@ Compensation plays a critical role in employee retention.
 * Introduce performance-based rewards.
 
 ### Chart
-![alt text](Charts\Attrition_vs_income.png)
+![alt text](https://github.com/ChirantanSarkar/employee_attrition_analysis_python/blob/main/Charts/Attrition_vs_income.png)
 ___
 
 ## 4. Sales Department Experiences Highest Attrition
@@ -106,7 +106,7 @@ Customer-facing roles may experience greater pressure and turnover.
 * Improve employee engagement within sales teams.
 
 ### Chart
-![alt text](Charts\Department_vs_attrition.png)
+![alt text](https://github.com/ChirantanSarkar/employee_attrition_analysis_python/blob/main/Charts/Department_vs_attrition.png)
 ___
 
 ## 5. Sales Representatives Have the Highest Turnover
@@ -130,7 +130,7 @@ Sales Representatives represent the most vulnerable employee segment.
 * Review compensation and incentive models.
 
 ### Chart
-![alt text](Charts\Attrition_vs_jobrole.png)
+![alt text](https://github.com/ChirantanSarkar/employee_attrition_analysis_python/blob/main/Charts/Attrition_vs_jobrole.png)
 ___
 
 ## 6. Job Satisfaction Directly Influences Retention
@@ -153,7 +153,7 @@ Higher job satisfaction significantly reduces employee turnover.
 * Strengthen employee recognition programs.
 
 ### Chart
-![alt text](Charts\Attrition_vs_satisfection.png)
+![alt text](https://github.com/ChirantanSarkar/employee_attrition_analysis_python/blob/main/Charts/Attrition_vs_satisfection.png)
 ___
 
 ## 7. Poor Work-Life Balance Increases Attrition
@@ -176,7 +176,7 @@ Employees with poor work-life balance are twice as likely to leave.
 * Support employee wellness initiatives.
 
 ### Chart
-![alt text](Charts\Attriton_vs_work-life-balance.png)
+![alt text](https://github.com/ChirantanSarkar/employee_attrition_analysis_python/blob/main/Charts/Attriton_vs_work-life-balance.png)
 ___
 
 ## 8. Gender-Based Attrition Difference is Minimal
@@ -191,7 +191,7 @@ ___
 Gender is not a major factor influencing attrition compared to overtime, compensation, and satisfaction.
 
 ### Chart
-![alt text](Charts\Gender_vs_attrition.png)
+![alt text](https://github.com/ChirantanSarkar/employee_attrition_analysis_python/blob/main/Charts/Gender_vs_attrition.png)
 ___
 
 # Conclusion
